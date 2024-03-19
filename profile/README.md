@@ -13,6 +13,15 @@ More information and documentation will soon be available at https://cnet.hevs.i
 <br />
 Happy coding! 🚀
 
+## Documentation
+
+Useful links:
+
+* Github organization for open-source and students projects: https://github.com/hei-synd-cnet
+* Public documentation (WIP as of today): https://cnet.hevs.io/
+* Virtual Private Server hosting services (not yet public): https://cnet.hevs.ch/
+* Internal infrastructure code (IaC): https://gitlab.hevs.ch/cnet
+
 ## Find us on
 
 [hevs.ch](https://www.hevs.ch/hei) &nbsp;&middot;&nbsp;
